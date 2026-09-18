@@ -1,7 +1,7 @@
 <!-- Animated Introduction -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I%27m+MD.+Faiyaz+Adin;I%27m+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;You+can+also+call+me+ST0RMxFiRE"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I%27m+MD.+Faiyaz+Adin;I%27m+from+Bangladesh;You+can+also+call+me+ST0RMxFiRE"
     alt="Animated Introduction"
   />
 </p>
@@ -9,8 +9,8 @@
 <!-- Main Profile GIF -->
 <p align="center">
   <img
-    src="./Goku%20GIF.gif"
-    alt="Goku Profile Banner"
+    src="Coding Zero One GIF by Squirrel Monkey.gif"
+    alt="Main Profile Banner"
     width="500"
   />
 </p>
@@ -48,7 +48,7 @@
 <br>
 
 <!-- Social Media and Side GIF -->
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="60%" valign="middle">
       <h2>Connect with Me</h2>
@@ -88,7 +88,7 @@
       <img
         src="./Animated%20GIF.gif"
         alt="Animated Profile GIF"
-        width="280"
+        width="300"
       />
     </td>
   </tr>
@@ -170,6 +170,13 @@
 <!-- Achievements and Statistics -->
 <h2 align="center">Achievements & GitHub Statistics</h2>
 
+<p align="center">
+  <img
+    src="Goku GIF.gif"
+    alt="Goku Profile Banner"
+    width="300"
+  />
+</p>
 
 <!-- Contribution Streak -->
 <h3 align="center">Contribution Streak</h3>
