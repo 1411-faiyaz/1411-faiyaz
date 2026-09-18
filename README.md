@@ -9,9 +9,9 @@
 <!-- Main Profile GIF -->
 <p align="center">
   <img
-    src="Coding Zero One GIF by Squirrel Monkey.gif"
+    src="Woman Coding GIF by Pluralsight.gif"
     alt="Main Profile Banner"
-    width="500"
+    width="600"
   />
 </p>
 <!-- Animated Professional Title -->
@@ -193,6 +193,18 @@
 <hr>
 
 <!-- Footer -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=4000&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Glitch;.....+.....+.....;Glitch;.....+.....+....."
+    alt="Introduction"
+  />
+</p>
+<p align="center">
+  <img
+    src="Coding Zero One GIF by Squirrel Monkey.gif"
+    alt="Footer Profile Banner"
+    width="600"
+  />
 <!-- Colorful Gradient Footer -->
 <p align="center">
   <img
