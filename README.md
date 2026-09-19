@@ -88,7 +88,7 @@
       <img
         src="./Animated%20GIF.gif"
         alt="Animated Profile GIF"
-        width="300"
+        width="400"
       />
     </td>
   </tr>
