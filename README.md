@@ -126,7 +126,7 @@
 <br>
 
 <!-- Design, Animation and Game Development -->
-<h3 align="center">Design, Animation & Game Development</h3>
+<h3 align="center">Design, Animation, Game & Editing Development</h3>
 
 <p align="center">
   <img
